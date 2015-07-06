@@ -3,7 +3,7 @@ alfresco-site-groups
 
 This extension adds a new ```Groups management``` option in Alfresco Share site configuration menu.
 
-The plugin is licensed under the [GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html). The current version is compatible with Alfresco **5.0** CE.
+The plugin is licensed under the [GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html). The current version is compatible with Alfresco **5.0.d** and it can be deployed on Alfresco **5.0.c** with some conditions detailed at [releases section](https://github.com/keensoft/alfresco-site-groups/releases/tag/5.0.c).
 
 This plugin is based on [Alfresco Aikau](https://github.com/Alfresco/Aikau/blob/master/tutorial/chapters/About.md) and is experimental by now.
 
@@ -11,8 +11,8 @@ Downloading the ready-to-deploy-plugin
 --------------------------------------
 The binary distribution is made of one AMP file for repo and another AMP file for share:
 
-* [repo AMP](https://github.com/keensoft/alfresco-site-groups/releases/download/1.0-SNAPSHOT/site-groups-repo-1.0-SNAPSHOT.amp)
-* [share AMP](https://github.com/keensoft/alfresco-site-groups/releases/download/1.0-SNAPSHOT/site-groups-share-1.0-SNAPSHOT.amp)
+* [repo AMP](https://github.com/keensoft/alfresco-site-groups/releases/download/1.0-SNAPSHOT/site-groups-repo.amp)
+* [share AMP](https://github.com/keensoft/alfresco-site-groups/releases/download/1.0-SNAPSHOT/site-groups-share.amp)
 
 You can install it by using standard [Alfresco deployment tools](http://docs.alfresco.com/community/tasks/dev-extensions-tutorials-simple-module-install-amp.html)
 
