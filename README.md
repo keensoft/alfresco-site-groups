@@ -3,7 +3,7 @@ alfresco-site-groups
 
 This addon provides a new ```Groups management``` option in Alfresco Share site configuration menu in order to manage groups locally to a site. Available only for Site Administrators.
 
-The plugin is licensed under the [GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html). The current version is compatible with Alfresco **5.0.d** and it can be deployed on Alfresco **5.0.c** with some conditions detailed at [releases section](https://github.com/keensoft/alfresco-site-groups/releases/tag/5.0.c).
+The plugin is licensed under the [GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.html). The current version is compatible with Alfresco **5.2.f** and it can be deployed on Alfresco **5.0.c** with some conditions detailed at [releases section](https://github.com/keensoft/alfresco-site-groups/releases/tag/5.0.c).
 
 This plugin is based on [Alfresco Aikau](https://github.com/Alfresco/Aikau/blob/master/tutorial/chapters/About.md) and is experimental by now.
 

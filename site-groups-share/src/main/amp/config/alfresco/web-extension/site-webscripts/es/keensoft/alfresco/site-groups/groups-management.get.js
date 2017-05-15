@@ -54,7 +54,7 @@ model.jsonModel = {
    services: [
 		"alfresco/services/CrudService",
 		"alfresco/services/DialogService",
-		"site-groups/GroupsManagementService",
+		"custom-site-groups/GroupsManagementService",
 		"alfresco/services/OptionsService"
    ],
    widgets:[

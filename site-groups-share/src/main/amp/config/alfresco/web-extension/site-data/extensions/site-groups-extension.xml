@@ -9,7 +9,7 @@
                     <web-framework>
                         <dojo-pages>
                             <packages>
-                                <package name="site-groups" location="js/site-groups"/>
+                                <package name="custom-site-groups" location="js/site-groups"/>
                             </packages>
                         </dojo-pages>
                     </web-framework>
