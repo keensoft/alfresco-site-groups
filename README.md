@@ -11,8 +11,8 @@ Downloading the ready-to-deploy-plugin
 --------------------------------------
 The binary distribution is made of one AMP file for repo and another AMP file for share:
 
-* [repo AMP](https://github.com/keensoft/alfresco-site-groups/releases/download/5.2.f/site-groups-repo-1.0.0.amp)
-* [share AMP](https://github.com/keensoft/alfresco-site-groups/releases/download/5.2.f/site-groups-share-1.0.1.amp)
+* [repo AMP](https://github.com/keensoft/alfresco-site-groups/releases/download/1.1.0/site-groups-repo-1.1.0.amp)
+* [share AMP](https://github.com/keensoft/alfresco-site-groups/releases/download/1.1.0/site-groups-share-1.1.0.amp)
 
 You can install it by using standard [Alfresco deployment tools](http://docs.alfresco.com/community/tasks/dev-extensions-tutorials-simple-module-install-amp.html)
 
